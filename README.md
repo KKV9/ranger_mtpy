@@ -1,5 +1,5 @@
 # ranger_mtpy
-This script is a ranger plugin that draws menu to mount and unmount MTP devices using gio.
+This script is a ranger plugin that draws a menu to mount and unmount MTP devices using gio.
 
 # Requirements
 - python3.8 or newer
